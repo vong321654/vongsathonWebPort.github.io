@@ -1,9 +1,10 @@
 ## Expreience in Vocational and High Vocational
-- *Electronics* | Mar'23 - Apr'23
+- *Electronic* | Mar-May'19 & Mar-May'21
 - ![logo512](../assets/logo512.png)
-- Tags: Category 3
+- Tags: BEST IT, HUAHIN
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - REPAIR,SETUP & Maintance PC/PRINTER/CCTV
+  - SETUP INTERNET & FIBEROBTIC
+  - DEV WEBAPP

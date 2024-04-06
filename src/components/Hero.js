@@ -91,6 +91,7 @@ export default function Header({ color }) {
             >
               Portfolio
             </Button>
+            
             <Button
               as="a"
               href="https://chat.openai.com/c/d43dfda3-3f1f-437c-9feb-e0faa88bb4f1"

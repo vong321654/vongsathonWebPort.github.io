@@ -5,14 +5,14 @@ import {
   Container,
   Box,
   HStack,
-  Button,
+  //Button,
   //ButtonGroup,
   Card,
   CardBody,
   Image,
   Heading,
   //SimpleGrid,
-  Badge,
+  //Badge,
   //Link,
   //Center,
 } from "@chakra-ui/react";
@@ -69,7 +69,7 @@ export default function Projects({ color }) {
 
                       <Text py={2}>{project.description}</Text>
 
-                      <HStack py={2}>
+                      {/* <HStack py={2}>
                         {project.buttons.map((button) => (
                           <a key={button.text} href={button.href}>
                             <Button color={`${color}.400`}>
@@ -87,7 +87,7 @@ export default function Projects({ color }) {
                             {badge.text}
                           </Badge>
                         ))}
-                      </HStack>
+                      </HStack> */}
                     </CardBody>
                   </Stack>
                 </Card>

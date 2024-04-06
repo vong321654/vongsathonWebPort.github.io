@@ -36,8 +36,6 @@ const parseProjects = (mdContent) => {
         description,
         image,
         tags: [tags],
-        badges,
-        buttons,
       });
     }
   }

@@ -10,7 +10,6 @@ const parseProfile = (mdContent) => {
     contact: "",
     linkedin: "",
     github: "",
-    email: "",
     logo: "",
   };
 
@@ -64,7 +63,6 @@ const ProfileArray = () => {
     contact: "",
     linkedin: "",
     github: "",
-    email: "",
     logo: "",
   });
 

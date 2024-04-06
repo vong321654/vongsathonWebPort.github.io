@@ -1,5 +1,5 @@
-## Company 3
-- *Role* | Mar'23 - Apr'23
+## Expreience in Vocational and High Vocational
+- *Electronics* | Mar'23 - Apr'23
 - ![logo512](../assets/logo512.png)
 - Tags: Category 3
 - Badges:
